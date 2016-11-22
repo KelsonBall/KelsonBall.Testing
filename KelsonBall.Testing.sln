@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelsonBall.Testing", "KelsonBall.Testing\KelsonBall.Testing.csproj", "{93D87F6D-B5A0-4D0E-9708-DE7B8E5E507A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelsonBall.Testing.Example", "KelsonBall.Testing.Example\KelsonBall.Testing.Example.csproj", "{4E6CEC32-EBB7-475D-BA3C-8F4FE4E92F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6CEC32-EBB7-475D-BA3C-8F4FE4E92F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6CEC32-EBB7-475D-BA3C-8F4FE4E92F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6CEC32-EBB7-475D-BA3C-8F4FE4E92F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6CEC32-EBB7-475D-BA3C-8F4FE4E92F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D87F6D-B5A0-4D0E-9708-DE7B8E5E507A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D87F6D-B5A0-4D0E-9708-DE7B8E5E507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D87F6D-B5A0-4D0E-9708-DE7B8E5E507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D87F6D-B5A0-4D0E-9708-DE7B8E5E507A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
