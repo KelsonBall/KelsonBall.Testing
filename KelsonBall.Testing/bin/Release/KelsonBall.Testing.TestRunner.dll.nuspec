@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>KelsonBall.Testing</id>
+    <version>1.0.0</version>
+    <authors>kelson</authors>
+    <owners>kelson</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>hhttps://github.com/KelsonBall/KelsonBall.Testing</projectUrl>
+    <iconUrl>https://cdn0.iconfinder.com/data/icons/document-file-types/512/url-512.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A minimalist unit testing package for use in console applications.</description>
+    <releaseNotes>Created package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Unit Testing Console MonoDevelop Cross Platform</tags>    
+    <packageTypes>
+      <packageType type="Dependency" />
+    </packageTypes>
+  </metadata>
+</package>

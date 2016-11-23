@@ -1,0 +1,12 @@
+/home/kelson/KelsonBall.Testing.TestRunner/KelsonBall.Testing.Example/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kelson/KelsonBall.Testing.TestRunner/KelsonBall.Testing.Example/bin/Debug/KelsonBall.Testing.Example.exe.mdb
+/home/kelson/KelsonBall.Testing.TestRunner/KelsonBall.Testing.Example/bin/Debug/KelsonBall.Testing.Example.exe
+/home/kelson/KelsonBall.Testing.TestRunner/KelsonBall.Testing.Example/obj/Debug/KelsonBall.Testing.Example.exe
+/home/kelson/KelsonBall.Testing.TestRunner/KelsonBall.Testing.Example/obj/Debug/KelsonBall.Testing.Example.exe.mdb
+/home/kelson/KelsonBall.Testing.TestRunner/KelsonBall.Testing.Example/bin/Debug/KelsonBall.Testing.TestRunner.dll
+/home/kelson/KelsonBall.Testing.TestRunner/KelsonBall.Testing.Example/bin/Debug/KelsonBall.Testing.TestRunner.dll.mdb
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing.Example/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing.Example/bin/Debug/KelsonBall.Testing.Example.exe.mdb
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing.Example/bin/Debug/KelsonBall.Testing.Example.exe
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing.Example/obj/Debug/KelsonBall.Testing.Example.exe
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing.Example/obj/Debug/KelsonBall.Testing.Example.exe.mdb

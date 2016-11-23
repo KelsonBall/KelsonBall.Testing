@@ -1,0 +1,5 @@
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing/bin/Release/KelsonBall.Testing.TestRunner.dll.mdb
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing/bin/Release/KelsonBall.Testing.TestRunner.dll
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing/obj/Release/KelsonBall.Testing.TestRunner.dll
+/home/kelson/KelsonBall.Testing/KelsonBall.Testing/obj/Release/KelsonBall.Testing.TestRunner.dll.mdb
